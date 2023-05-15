@@ -1,0 +1,41 @@
+header img {
+    height: 80px;
+}
+body {
+	height: 125vh;
+	background-image: url('https://image.jimcdn.com/app/cms/image/transf/dimension=767x/path/s823a30b19ebd3017/backgroundarea/i19fa2457a0f37668/version/1672588622/image.jpg');
+	background-size: cover;
+	font-family: sans-serif;
+	margin-top: 80px;
+	padding: 0px;
+	color: rgb(221, 209, 188);
+	font-size: 20px;	
+	text-align: center;
+}
+
+main {
+    color: white;
+}
+
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
+
+header * {
+    display: inline;
+}
+
+footer {
+	margin: 0;
+	background-color: rgb(221, 209, 188);
+	color: rgb(143, 52, 131);
+	padding: 55px;
+	text-align: center;
+	left: 0;
+	right: 0;
+}
